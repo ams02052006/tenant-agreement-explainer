@@ -1,0 +1,550 @@
+[
+  {
+    "id": "audit-1790754211473",
+    "title": "RESIDENTIAL TENANCY  PG ACCOMMODATION AGREEM",
+    "timestamp": "2026-09-30T07:43:31.473Z",
+    "clausesCount": 6,
+    "fairnessScore": 18,
+    "status": "High Risk / Predatory",
+    "highRisks": 5,
+    "fullData": {
+      "rawText": "RESIDENTIAL TENANCY & PG ACCOMMODATION AGREEMENT\n\nThis Agreement is made on this 1st day of October, 2026, between Mr. R. K. Sharma (hereinafter referred to as the \"Landlord/Owner\") and the Tenant/Occupant (hereinafter referred to as the \"Resident\").\n\nWHEREAS the Owner agrees to let out Room 302 located at Green Valley Residency, and the Resident agrees to take on lease the premises under the following binding terms and conditions:\n\n1. RENT & SECURITY DEPOSIT\n1.1 The Resident shall pay a monthly rent of INR 18,500 on or before the 1st day of each calendar month. Any delay beyond the 2nd day shall attract an immediate penalty of INR 500 per day.\n1.2 The Resident has deposited an interest-free Security Deposit of INR 55,500. \n1.3 Upon vacating, a mandatory non-negotiable deduction of INR 12,000 shall be made from the deposit towards mandatory repainting and deep sanitization, regardless of the tenancy duration or condition of walls.\n1.4 The remaining balance of the security deposit shall be refunded within 90 days following vacant possession.\n\n2. LOCK-IN PERIOD & TERMINATION\n2.1 This agreement carries a strict Lock-in Period of 6 (six) months from the commencement date. \n2.2 If the Resident vacates or issues notice before the completion of 6 months, the entire security deposit shall be forfeited, and the Resident shall additionally remain liable to pay the rent for the remainder of the lock-in period.\n2.3 Notice Period: The Resident must provide 60 (sixty) days written notice prior to vacating. The Owner reserves the right to terminate the tenancy at any time by giving 7 (seven) days verbal or written notice without citing reasons.\n\n3. MAINTENANCE, REPAIRS & USAGE\n3.1 The Resident shall bear the full cost of all internal repairs, plumbing fixes, electrical appliance breakdowns, and routine servicing, irrespective of pre-existing wear and tear.\n3.2 Major structural repairs exceeding INR 5,000 shall be split equally between the Landlord and Resident.\n\n4. ENTRY, INSPECTION & HOUSE RULES\n4.1 The Landlord, building supervisor, or designated agents reserve the right to enter and inspect the premises at any hour of the day or night without prior notice to verify compliance with house regulations.\n4.2 Guests, family members, or overnight visitors are strictly prohibited. Any unauthorized guest identified on premises will attract a fine of INR 1,500 per day.\n4.3 Quiet hours commence strictly at 9:30 PM. Failure to adhere will result in immediate lease cancellation.\n\n5. RENT ESCALATION & LEGAL INDEMNITY\n5.1 The Landlord reserves the unilateral right to increase the monthly rent by up to 15% at any point after 6 months upon 15 days notice.\n5.2 The Resident agrees to indemnify and hold harmless the Landlord against any municipal disputes, damages, structural failures, or utility cuts occurring during the occupancy.\n\nIN WITNESS WHEREOF the parties hereto have signed this agreement on the day, month, and year first written above.\n\nLandlord Signature: ___________________\nResident Signature: ___________________",
+      "clauses": [
+        {
+          "number": "Intro",
+          "title": "Preamble & Parties",
+          "text": "RESIDENTIAL TENANCY & PG ACCOMMODATION AGREEMENT\n\nThis Agreement is made on this 1st day of October, 2026, between Mr. R. K. Sharma (hereinafter referred to as the \"Landlord/Owner\") and the Tenant/Occupant (hereinafter referred to as the \"Resident\").\n\nWHEREAS the Owner agrees to let out Room 302 located at Green Valley Residency, and the Resident agrees to take on lease the premises under the following binding terms and conditions:",
+          "id": "clause-0"
+        },
+        {
+          "number": "1",
+          "title": "RENT & SECURITY DEPOSIT",
+          "id": "clause-1",
+          "text": "1. RENT & SECURITY DEPOSIT\n1.1 The Resident shall pay a monthly rent of INR 18,500 on or before the 1st day of each calendar month. Any delay beyond the 2nd day shall attract an immediate penalty of INR 500 per day.\n1.2 The Resident has deposited an interest-free Security Deposit of INR 55,500. \n1.3 Upon vacating, a mandatory non-negotiable deduction of INR 12,000 shall be made from the deposit towards mandatory repainting and deep sanitization, regardless of the tenancy duration or condition of walls.\n1.4 The remaining balance of the security deposit shall be refunded within 90 days following vacant possession."
+        },
+        {
+          "number": "2",
+          "title": "LOCK-IN PERIOD & TERMINATION",
+          "id": "clause-2",
+          "text": "2. LOCK-IN PERIOD & TERMINATION\n2.1 This agreement carries a strict Lock-in Period of 6 (six) months from the commencement date. \n2.2 If the Resident vacates or issues notice before the completion of 6 months, the entire security deposit shall be forfeited, and the Resident shall additionally remain liable to pay the rent for the remainder of the lock-in period.\n2.3 Notice Period: The Resident must provide 60 (sixty) days written notice prior to vacating. The Owner reserves the right to terminate the tenancy at any time by giving 7 (seven) days verbal or written notice without citing reasons."
+        },
+        {
+          "number": "3",
+          "title": "MAINTENANCE",
+          "id": "clause-3",
+          "text": "3. MAINTENANCE, REPAIRS & USAGE\n3.1 The Resident shall bear the full cost of all internal repairs, plumbing fixes, electrical appliance breakdowns, and routine servicing, irrespective of pre-existing wear and tear.\n3.2 Major structural repairs exceeding INR 5,000 shall be split equally between the Landlord and Resident."
+        },
+        {
+          "number": "4",
+          "title": "ENTRY",
+          "id": "clause-4",
+          "text": "4. ENTRY, INSPECTION & HOUSE RULES\n4.1 The Landlord, building supervisor, or designated agents reserve the right to enter and inspect the premises at any hour of the day or night without prior notice to verify compliance with house regulations.\n4.2 Guests, family members, or overnight visitors are strictly prohibited. Any unauthorized guest identified on premises will attract a fine of INR 1,500 per day.\n4.3 Quiet hours commence strictly at 9:30 PM. Failure to adhere will result in immediate lease cancellation."
+        },
+        {
+          "number": "5",
+          "title": "RENT ESCALATION & LEGAL INDEMNITY",
+          "id": "clause-5",
+          "text": "5. RENT ESCALATION & LEGAL INDEMNITY\n5.1 The Landlord reserves the unilateral right to increase the monthly rent by up to 15% at any point after 6 months upon 15 days notice.\n5.2 The Resident agrees to indemnify and hold harmless the Landlord against any municipal disputes, damages, structural failures, or utility cuts occurring during the occupancy.\n\nIN WITNESS WHEREOF the parties hereto have signed this agreement on the day, month, and year first written above.\n\nLandlord Signature: ___________________\nResident Signature: ___________________"
+        }
+      ],
+      "keyMetrics": {
+        "rent": {
+          "amount": "₹1",
+          "dueDate": "1st of every month",
+          "lateFee": "None stated",
+          "severity": "safe"
+        },
+        "deposit": {
+          "amount": "₹1",
+          "deductions": "Mandatory deductions noted",
+          "refundTimeline": "90 days",
+          "hasMandatoryDeduction": true,
+          "mandatoryDeductionAmount": null,
+          "severity": "high"
+        },
+        "lockIn": {
+          "duration": "None specified",
+          "severity": "safe",
+          "penalty": "Entire deposit forfeited + remaining rent"
+        },
+        "notice": {
+          "tenant": "30 Days",
+          "owner": "30 Days",
+          "hasAsymmetry": false,
+          "severity": "safe"
+        },
+        "maintenance": {
+          "terms": "Shared standard split",
+          "heavyMaint": false,
+          "severity": "safe"
+        },
+        "privacy": {
+          "terms": "High Risk: Unannounced entry anytime!",
+          "unrestrictedEntry": true,
+          "severity": "high"
+        }
+      },
+      "riskAnalysis": [
+        {
+          "id": "risk-deduction-clause-1",
+          "clauseId": "clause-1",
+          "clauseNumber": "1",
+          "category": "Security Deposit",
+          "title": "Mandatory Automatic Deposit Deduction",
+          "severity": "high",
+          "snippet": "1. RENT & SECURITY DEPOSIT\n1.1 The Resident shall pay a monthly rent of INR 18,500 on or before the 1st day of each calendar month. Any delay beyond the 2nd day shall attract an immediate penalty of INR 500 per day.\n1.2 ...",
+          "plainEnglish": "The landlord will automatically cut a large part of your deposit for painting or cleaning when you move out, even if you keep the room spotless.",
+          "hiddenRisk": "You are paying for routine landlord property renovation that legally qualifies as natural wear and tear.",
+          "negotiationTip": "Request: 'Deductions shall be made only for actual physical damages documented on move-out beyond normal wear and tear, supported by actual repair receipts.'"
+        },
+        {
+          "id": "risk-lockin-clause-2",
+          "clauseId": "clause-2",
+          "clauseNumber": "2",
+          "category": "Lock-in Period",
+          "title": "Unfair Double Penalty on Early Exit",
+          "severity": "high",
+          "snippet": "2. LOCK-IN PERIOD & TERMINATION\n2.1 This agreement carries a strict Lock-in Period of 6 (six) months from the commencement date. \n2.2 If the Resident vacates or issues notice before the completion of 6 months, the entire...",
+          "plainEnglish": "If you have to move early for college transfer or family reasons, you lose 100% of your deposit and are still forced to pay future unlived rent.",
+          "hiddenRisk": "Predatory double penalty. Landlords have a duty to mitigate damages by finding a new tenant.",
+          "negotiationTip": "Propose: 'Tenant may exit during lock-in by providing 30 days notice or finding an acceptable replacement occupant.'"
+        },
+        {
+          "id": "risk-notice-clause-2",
+          "clauseId": "clause-2",
+          "clauseNumber": "2",
+          "category": "Notice Period",
+          "title": "One-Sided Notice Period",
+          "severity": "high",
+          "snippet": "2. LOCK-IN PERIOD & TERMINATION\n2.1 This agreement carries a strict Lock-in Period of 6 (six) months from the commencement date. \n2.2 If the Resident vacates or issues notice before the completion of 6 months, the entire...",
+          "plainEnglish": "You must give 60 days notice to vacate, but the landlord can throw you out with only 7 days notice without any reason.",
+          "hiddenRisk": "You risk sudden displacement during exam periods or critical project deadlines.",
+          "negotiationTip": "Propose: 'Both parties agree to a mutual 30 days written notice period for termination.'"
+        },
+        {
+          "id": "risk-privacy-clause-4",
+          "clauseId": "clause-4",
+          "clauseNumber": "4",
+          "category": "Tenant Privacy",
+          "title": "Unannounced Entry & Loss of Privacy",
+          "severity": "high",
+          "snippet": "4. ENTRY, INSPECTION & HOUSE RULES\n4.1 The Landlord, building supervisor, or designated agents reserve the right to enter and inspect the premises at any hour of the day or night without prior notice to verify compliance...",
+          "plainEnglish": "The landlord or building warden reserves the right to walk into your room at any hour without advance notice.",
+          "hiddenRisk": "Direct breach of your basic legal right to quiet enjoyment and personal privacy.",
+          "negotiationTip": "Propose: 'Inspections require at least 24 hours advance written or telephone notice and shall only occur during daylight hours (9 AM - 7 PM), except in emergencies.'"
+        },
+        {
+          "id": "risk-guest-clause-4",
+          "clauseId": "clause-4",
+          "clauseNumber": "4",
+          "category": "Guests & Curfew",
+          "title": "Aggressive Guest Restrictions & Monetary Fines",
+          "severity": "medium",
+          "snippet": "4. ENTRY, INSPECTION & HOUSE RULES\n4.1 The Landlord, building supervisor, or designated agents reserve the right to enter and inspect the premises at any hour of the day or night without prior notice to verify compliance...",
+          "plainEnglish": "Guests are prohibited after 8 PM and subject to automatic ₹1,000 fines.",
+          "hiddenRisk": "Risk of warden harassment during family or friend visits.",
+          "negotiationTip": "Propose: 'Visitors permitted until 10:00 PM with quiet hours respected; overnight family guests allowed with prior notice.'"
+        },
+        {
+          "id": "risk-hike-clause-5",
+          "clauseId": "clause-5",
+          "clauseNumber": "5",
+          "category": "Rent Escalation",
+          "title": "Arbitrary Mid-Tenancy Rent Hikes",
+          "severity": "high",
+          "snippet": "5. RENT ESCALATION & LEGAL INDEMNITY\n5.1 The Landlord reserves the unilateral right to increase the monthly rent by up to 15% at any point after 6 months upon 15 days notice.\n5.2 The Resident agrees to indemnify and hold...",
+          "plainEnglish": "The owner can hike your monthly rent by 15% in the middle of your contract with just 15 days notice.",
+          "hiddenRisk": "Defeats the whole purpose of a fixed 11-month lease.",
+          "negotiationTip": "Propose: 'Rent shall remain fixed for the 11-month term, with agreed 5-8% escalation only upon formal lease renewal.'"
+        }
+      ],
+      "healthScore": {
+        "score": 18,
+        "status": "High Risk / Predatory",
+        "verdict": "Critical red flags detected! Do NOT sign without negotiating major amendments or seeking professional legal review.",
+        "highCount": 5,
+        "medCount": 1,
+        "safeCount": 0
+      },
+      "questions": [
+        {
+          "id": "q-deposit",
+          "topic": "Deposit Deductions",
+          "question": "Clause specifies a mandatory deduction for painting upon vacating. Can we amend this so deductions apply only to actual physical damages beyond normal wear and tear, supported by itemized repair invoices?",
+          "why": "Prevents paying for normal wall aging or previous tenants' paint decay."
+        },
+        {
+          "id": "q-notice",
+          "topic": "Mutual Notice Period",
+          "question": "The current draft allows the owner 7 days to terminate but requires 60 days from the tenant. Can we make this a mutual 30-day notice period for both parties?",
+          "why": "Ensures you aren't evicted unexpectedly without time to find a new room."
+        },
+        {
+          "id": "q-lockin",
+          "topic": "Early Exit & Lock-in Flexibility",
+          "question": "In the event of an unavoidable college transfer, job relocation, or health emergency, can we include a clause allowing termination during lock-in if I give 30 days notice or help find a replacement?",
+          "why": "Protects you from losing your entire deposit and being held liable for unlived rent."
+        },
+        {
+          "id": "q-privacy",
+          "topic": "Inspection Notice & Privacy",
+          "question": "Regarding owner or warden inspections, can we add a requirement of at least 24 hours advance written or telephone notice before room entry, except in emergencies?",
+          "why": "Protects your fundamental right to privacy and personal dignity."
+        }
+      ],
+      "checklist": [
+        {
+          "id": "chk-photo",
+          "title": "Document Existing Condition with Photos & Video",
+          "description": "Take high-resolution photos and video of all walls, tiles, geyser, taps, and pre-existing furniture marks on move-in day. Email them to the owner to establish timestamped proof.",
+          "category": "Move-In Proof",
+          "isCompleted": false,
+          "priority": "high"
+        },
+        {
+          "id": "chk-meter",
+          "title": "Note Down Electricity & Water Meter Readings",
+          "description": "Photograph the electricity sub-meter and confirm previous tenant's unpaid bills are settled before paying first month's advance.",
+          "category": "Utilities",
+          "isCompleted": false,
+          "priority": "high"
+        },
+        {
+          "id": "chk-receipt",
+          "title": "Get Deposit & Rent Acknowledgment in Writing",
+          "description": "Never pay deposit in unrecorded cash. Use bank transfer (UPI/NEFT) and ensure owner provides a signed receipt.",
+          "category": "Payment",
+          "isCompleted": false,
+          "priority": "high"
+        },
+        {
+          "id": "chk-notice-match",
+          "title": "Check Mutual Notice Period Match",
+          "description": "Confirm both tenant and owner have identical notice requirements (e.g. 30 days each).",
+          "category": "Clauses",
+          "isCompleted": false,
+          "priority": "medium"
+        },
+        {
+          "id": "chk-painting-clause",
+          "title": "Clarify Painting & Normal Wear-and-Tear Policy",
+          "description": "Verify that wall painting is not an automatic deduction, but only charged if actual damage occurs.",
+          "category": "Clauses",
+          "isCompleted": false,
+          "priority": "medium"
+        },
+        {
+          "id": "chk-keys-lock",
+          "title": "Test All Locks & Request Duplicate Key Policy",
+          "description": "Test main door and room locks. Clarify who holds duplicate keys and verify owner entry notice.",
+          "category": "Security",
+          "isCompleted": false,
+          "priority": "high"
+        }
+      ],
+      "analyzedAt": "2026-09-30T07:43:31.473Z",
+      "engine": "Express Neural-Rule Engine v2.0"
+    }
+  },
+  {
+    "id": "audit-1790753966022-seed",
+    "title": "Tricky Student PG Agreement",
+    "timestamp": "2026-09-30T07:39:26.022Z",
+    "clausesCount": 10,
+    "fairnessScore": 15,
+    "status": "High Risk / Predatory",
+    "highRisks": 6,
+    "fullData": {
+      "rawText": "PAYING GUEST ACCOMMODATION & RENTAL AGREEMENT\n\nThis Agreement is entered into on 1st August 2026, by and between Mr. R. K. Sharma (hereinafter referred to as the \"OWNER/LANDLORD\") and the undersigned Tenant/Resident (hereinafter referred to as the \"LICENSEE/TENANT\").\n\nWHEREAS the Owner agrees to grant temporary license to the Tenant to occupy Room No. 204 in Sai Comforts Executive PG, Bengaluru, Karnataka.\n\nNOW THIS INDENTURE WITNESSETH AND IT IS HEREBY MUTUALLY AGREED AS FOLLOWS:\n\n1. RENT & PAYMENT SCHEDULE\nThe monthly license fee/rent shall be ₹18,000 (Rupees Eighteen Thousand Only) inclusive of basic water and high-speed Wi-Fi, payable strictly in advance on or before the 1st day of each English calendar month. If rent is not credited by the 3rd of the month, a mandatory late fee penalty of ₹300 per day will be levied automatically. If payment is delayed past the 7th, the Owner reserves the right to disconnect electricity and lock the premises.\n\n2. SECURITY DEPOSIT & MANDATORY DEDUCTIONS\nThe Tenant has deposited an interest-free refundable Security Deposit of ₹45,000 (Rupees Forty-Five Thousand Only). Upon vacating the premises, a mandatory non-negotiable deduction of ₹14,000 will be made towards deep cleaning, repainting, and air-conditioner sanitation, regardless of the tenant's length of stay or the physical condition of the room upon departure. The remaining balance shall be refunded within 60 days following physical handover.\n\n3. LOCK-IN PERIOD & FORFEITURE\nThe Tenant agrees to a mandatory Lock-in Period of 6 (six) months from the commencement date. If the Tenant vacates, absconds, or terminates this agreement before completing the 6-month lock-in period for any reason (including college transfer, job loss, or illness), the entire Security Deposit of ₹45,000 shall be forfeited immediately. In addition, the Tenant remains legally bound to pay the full monthly rent for the remaining unexpired months of the lock-in period.\n\n4. NOTICE PERIOD ASYMMETRY\nThe Tenant must serve a minimum of 60 (sixty) days advance written notice prior to vacating the accommodation. However, the Owner reserves the absolute right to terminate this agreement and require the Tenant to vacate within 7 (seven) days notice without assigning any cause or reason whatsoever.\n\n5. MAINTENANCE, REPAIRS & REPLACEMENTS\nThe Tenant shall bear 100% of all expenses for repair, servicing, maintenance, and replacement of all fixtures inside the room, including geysers, plumbing taps, electrical fittings, door locks, and drainage unclogging. Any repair exceeding ₹500 shall be paid directly by the Tenant. The Owner shall not be held liable for structural maintenance or roof seepage.\n\n6. UNRESTRICTED RIGHT OF INSPECTION & ENTRY\nThe Owner, property warden, or authorized maintenance personnel shall retain duplicate master keys and reserve the unrestricted right to enter and inspect the Tenant's room at any time of day or night without prior notice to verify cleanliness or enforce house rules.\n\n7. CURFEW, VISITORS & GUEST PENALTIES\nStrict quiet hours begin at 9:00 PM. No visitors, parents, or friends of any gender are permitted inside the room after 8:00 PM. Any unauthorized guest presence inside the room beyond 8:00 PM will incur an automatic fine of ₹1,000 per occurrence and may result in immediate summary eviction without deposit refund.\n\n8. RENT ESCALATION & VARIATION\nThe Owner reserves the unilateral right to increase the monthly rent by up to 15% at any point during the tenancy upon serving a 15-day email intimation, owing to rising electricity tariffs and property maintenance costs.\n\n9. JURISDICTION & INDEMNITY\nThe Tenant agrees to indemnify and hold harmless the Owner against all legal claims, accidents, or losses arising on the premises. In the event of any legal dispute, only the local civil court designated by the Owner shall hold jurisdiction.",
+      "clauses": [
+        {
+          "number": "Intro",
+          "title": "Preamble & Parties",
+          "text": "PAYING GUEST ACCOMMODATION & RENTAL AGREEMENT\n\nThis Agreement is entered into on 1st August 2026, by and between Mr. R. K. Sharma (hereinafter referred to as the \"OWNER/LANDLORD\") and the undersigned Tenant/Resident (hereinafter referred to as the \"LICENSEE/TENANT\").\n\nWHEREAS the Owner agrees to grant temporary license to the Tenant to occupy Room No. 204 in Sai Comforts Executive PG, Bengaluru, Karnataka.\n\nNOW THIS INDENTURE WITNESSETH AND IT IS HEREBY MUTUALLY AGREED AS FOLLOWS:",
+          "id": "clause-0"
+        },
+        {
+          "number": "1",
+          "title": "RENT & PAYMENT SCHEDULE",
+          "id": "clause-1",
+          "text": "1. RENT & PAYMENT SCHEDULE\nThe monthly license fee/rent shall be ₹18,000 (Rupees Eighteen Thousand Only) inclusive of basic water and high-speed Wi-Fi, payable strictly in advance on or before the 1st day of each English calendar month. If rent is not credited by the 3rd of the month, a mandatory late fee penalty of ₹300 per day will be levied automatically. If payment is delayed past the 7th, the Owner reserves the right to disconnect electricity and lock the premises."
+        },
+        {
+          "number": "2",
+          "title": "SECURITY DEPOSIT & MANDATORY DEDUCTIONS",
+          "id": "clause-2",
+          "text": "2. SECURITY DEPOSIT & MANDATORY DEDUCTIONS\nThe Tenant has deposited an interest-free refundable Security Deposit of ₹45,000 (Rupees Forty-Five Thousand Only). Upon vacating the premises, a mandatory non-negotiable deduction of ₹14,000 will be made towards deep cleaning, repainting, and air-conditioner sanitation, regardless of the tenant's length of stay or the physical condition of the room upon departure. The remaining balance shall be refunded within 60 days following physical handover."
+        },
+        {
+          "number": "3",
+          "title": "LOCK-IN PERIOD & FORFEITURE",
+          "id": "clause-3",
+          "text": "3. LOCK-IN PERIOD & FORFEITURE\nThe Tenant agrees to a mandatory Lock-in Period of 6 (six) months from the commencement date. If the Tenant vacates, absconds, or terminates this agreement before completing the 6-month lock-in period for any reason (including college transfer, job loss, or illness), the entire Security Deposit of ₹45,000 shall be forfeited immediately. In addition, the Tenant remains legally bound to pay the full monthly rent for the remaining unexpired months of the lock-in period."
+        },
+        {
+          "number": "4",
+          "title": "NOTICE PERIOD ASYMMETRY",
+          "id": "clause-4",
+          "text": "4. NOTICE PERIOD ASYMMETRY\nThe Tenant must serve a minimum of 60 (sixty) days advance written notice prior to vacating the accommodation. However, the Owner reserves the absolute right to terminate this agreement and require the Tenant to vacate within 7 (seven) days notice without assigning any cause or reason whatsoever."
+        },
+        {
+          "number": "5",
+          "title": "MAINTENANCE",
+          "id": "clause-5",
+          "text": "5. MAINTENANCE, REPAIRS & REPLACEMENTS\nThe Tenant shall bear 100% of all expenses for repair, servicing, maintenance, and replacement of all fixtures inside the room, including geysers, plumbing taps, electrical fittings, door locks, and drainage unclogging. Any repair exceeding ₹500 shall be paid directly by the Tenant. The Owner shall not be held liable for structural maintenance or roof seepage."
+        },
+        {
+          "number": "6",
+          "title": "UNRESTRICTED RIGHT OF INSPECTION & ENTRY",
+          "id": "clause-6",
+          "text": "6. UNRESTRICTED RIGHT OF INSPECTION & ENTRY\nThe Owner, property warden, or authorized maintenance personnel shall retain duplicate master keys and reserve the unrestricted right to enter and inspect the Tenant's room at any time of day or night without prior notice to verify cleanliness or enforce house rules."
+        },
+        {
+          "number": "7",
+          "title": "CURFEW",
+          "id": "clause-7",
+          "text": "7. CURFEW, VISITORS & GUEST PENALTIES\nStrict quiet hours begin at 9:00 PM. No visitors, parents, or friends of any gender are permitted inside the room after 8:00 PM. Any unauthorized guest presence inside the room beyond 8:00 PM will incur an automatic fine of ₹1,000 per occurrence and may result in immediate summary eviction without deposit refund."
+        },
+        {
+          "number": "8",
+          "title": "RENT ESCALATION & VARIATION",
+          "id": "clause-8",
+          "text": "8. RENT ESCALATION & VARIATION\nThe Owner reserves the unilateral right to increase the monthly rent by up to 15% at any point during the tenancy upon serving a 15-day email intimation, owing to rising electricity tariffs and property maintenance costs."
+        },
+        {
+          "number": "9",
+          "title": "JURISDICTION & INDEMNITY",
+          "id": "clause-9",
+          "text": "9. JURISDICTION & INDEMNITY\nThe Tenant agrees to indemnify and hold harmless the Owner against all legal claims, accidents, or losses arising on the premises. In the event of any legal dispute, only the local civil court designated by the Owner shall hold jurisdiction."
+        }
+      ],
+      "keyMetrics": {
+        "rent": {
+          "amount": "₹18,000",
+          "dueDate": "1st of every month",
+          "lateFee": "₹300 per day",
+          "severity": "medium"
+        },
+        "deposit": {
+          "amount": "₹45,000",
+          "deductions": "Mandatory ₹14,000 deduction for painting/cleaning",
+          "refundTimeline": "60 days",
+          "hasMandatoryDeduction": true,
+          "mandatoryDeductionAmount": "₹14,000",
+          "severity": "high"
+        },
+        "lockIn": {
+          "duration": "None specified",
+          "severity": "safe",
+          "penalty": "Entire deposit forfeited + remaining rent"
+        },
+        "notice": {
+          "tenant": "30 Days",
+          "owner": "30 Days",
+          "hasAsymmetry": false,
+          "severity": "safe"
+        },
+        "maintenance": {
+          "terms": "Heavy burden: Tenant pays 100% of all fixtures & repairs!",
+          "heavyMaint": true,
+          "severity": "high"
+        },
+        "privacy": {
+          "terms": "High Risk: Unannounced entry anytime!",
+          "unrestrictedEntry": true,
+          "severity": "high"
+        }
+      },
+      "riskAnalysis": [
+        {
+          "id": "risk-deduction-clause-2",
+          "clauseId": "clause-2",
+          "clauseNumber": "2",
+          "category": "Security Deposit",
+          "title": "Mandatory Automatic Deposit Deduction",
+          "severity": "high",
+          "snippet": "2. SECURITY DEPOSIT & MANDATORY DEDUCTIONS\nThe Tenant has deposited an interest-free refundable Security Deposit of ₹45,000 (Rupees Forty-Five Thousand Only). Upon vacating the premises, a mandatory non-negotiable deduct...",
+          "plainEnglish": "The landlord will automatically cut a large part of your deposit for painting or cleaning when you move out, even if you keep the room spotless.",
+          "hiddenRisk": "You are paying for routine landlord property renovation that legally qualifies as natural wear and tear.",
+          "negotiationTip": "Request: 'Deductions shall be made only for actual physical damages documented on move-out beyond normal wear and tear, supported by actual repair receipts.'"
+        },
+        {
+          "id": "risk-lockin-clause-3",
+          "clauseId": "clause-3",
+          "clauseNumber": "3",
+          "category": "Lock-in Period",
+          "title": "Unfair Double Penalty on Early Exit",
+          "severity": "high",
+          "snippet": "3. LOCK-IN PERIOD & FORFEITURE\nThe Tenant agrees to a mandatory Lock-in Period of 6 (six) months from the commencement date. If the Tenant vacates, absconds, or terminates this agreement before completing the 6-month loc...",
+          "plainEnglish": "If you have to move early for college transfer or family reasons, you lose 100% of your deposit and are still forced to pay future unlived rent.",
+          "hiddenRisk": "Predatory double penalty. Landlords have a duty to mitigate damages by finding a new tenant.",
+          "negotiationTip": "Propose: 'Tenant may exit during lock-in by providing 30 days notice or finding an acceptable replacement occupant.'"
+        },
+        {
+          "id": "risk-notice-clause-4",
+          "clauseId": "clause-4",
+          "clauseNumber": "4",
+          "category": "Notice Period",
+          "title": "One-Sided Notice Period",
+          "severity": "high",
+          "snippet": "4. NOTICE PERIOD ASYMMETRY\nThe Tenant must serve a minimum of 60 (sixty) days advance written notice prior to vacating the accommodation. However, the Owner reserves the absolute right to terminate this agreement and req...",
+          "plainEnglish": "You must give 60 days notice to vacate, but the landlord can throw you out with only 7 days notice without any reason.",
+          "hiddenRisk": "You risk sudden displacement during exam periods or critical project deadlines.",
+          "negotiationTip": "Propose: 'Both parties agree to a mutual 30 days written notice period for termination.'"
+        },
+        {
+          "id": "risk-repair-clause-5",
+          "clauseId": "clause-5",
+          "clauseNumber": "5",
+          "category": "Maintenance",
+          "title": "Extreme Repair Cost Burden",
+          "severity": "high",
+          "snippet": "5. MAINTENANCE, REPAIRS & REPLACEMENTS\nThe Tenant shall bear 100% of all expenses for repair, servicing, maintenance, and replacement of all fixtures inside the room, including geysers, plumbing taps, electrical fittings...",
+          "plainEnglish": "You are made to pay for all broken geysers, AC compressors, and plumbing repairs even if they broke due to age or pre-existing defects.",
+          "hiddenRisk": "A single appliance breakdown could cost you ₹10,000+ for property you don't own.",
+          "negotiationTip": "Propose: 'Minor routine repairs under ₹1,000 by tenant; structural, pre-existing, and major appliance repairs paid solely by landlord.'"
+        },
+        {
+          "id": "risk-privacy-clause-6",
+          "clauseId": "clause-6",
+          "clauseNumber": "6",
+          "category": "Tenant Privacy",
+          "title": "Unannounced Entry & Loss of Privacy",
+          "severity": "high",
+          "snippet": "6. UNRESTRICTED RIGHT OF INSPECTION & ENTRY\nThe Owner, property warden, or authorized maintenance personnel shall retain duplicate master keys and reserve the unrestricted right to enter and inspect the Tenant's room at ...",
+          "plainEnglish": "The landlord or building warden reserves the right to walk into your room at any hour without advance notice.",
+          "hiddenRisk": "Direct breach of your basic legal right to quiet enjoyment and personal privacy.",
+          "negotiationTip": "Propose: 'Inspections require at least 24 hours advance written or telephone notice and shall only occur during daylight hours (9 AM - 7 PM), except in emergencies.'"
+        },
+        {
+          "id": "risk-guest-clause-7",
+          "clauseId": "clause-7",
+          "clauseNumber": "7",
+          "category": "Guests & Curfew",
+          "title": "Aggressive Guest Restrictions & Monetary Fines",
+          "severity": "medium",
+          "snippet": "7. CURFEW, VISITORS & GUEST PENALTIES\nStrict quiet hours begin at 9:00 PM. No visitors, parents, or friends of any gender are permitted inside the room after 8:00 PM. Any unauthorized guest presence inside the room beyon...",
+          "plainEnglish": "Guests are prohibited after 8 PM and subject to automatic ₹1,000 fines.",
+          "hiddenRisk": "Risk of warden harassment during family or friend visits.",
+          "negotiationTip": "Propose: 'Visitors permitted until 10:00 PM with quiet hours respected; overnight family guests allowed with prior notice.'"
+        },
+        {
+          "id": "risk-hike-clause-8",
+          "clauseId": "clause-8",
+          "clauseNumber": "8",
+          "category": "Rent Escalation",
+          "title": "Arbitrary Mid-Tenancy Rent Hikes",
+          "severity": "high",
+          "snippet": "8. RENT ESCALATION & VARIATION\nThe Owner reserves the unilateral right to increase the monthly rent by up to 15% at any point during the tenancy upon serving a 15-day email intimation, owing to rising electricity tariffs...",
+          "plainEnglish": "The owner can hike your monthly rent by 15% in the middle of your contract with just 15 days notice.",
+          "hiddenRisk": "Defeats the whole purpose of a fixed 11-month lease.",
+          "negotiationTip": "Propose: 'Rent shall remain fixed for the 11-month term, with agreed 5-8% escalation only upon formal lease renewal.'"
+        },
+        {
+          "id": "risk-missing-wear-tear",
+          "clauseId": "clause-0",
+          "clauseNumber": "Omission",
+          "category": "Renter Protection",
+          "title": "Missing 'Normal Wear and Tear' Protection",
+          "severity": "medium",
+          "snippet": "[No standard exclusion for normal aging and residential wear and tear found]",
+          "plainEnglish": "There is no clause explicitly protecting you from being charged for normal wall fading or minor aging.",
+          "hiddenRisk": "Owner may try to deduct repainting or tile cleaning fees simply because the apartment looks lived-in.",
+          "negotiationTip": "Insist on adding: 'Tenant shall not be held liable for normal wear and tear resulting from ordinary residential occupation.'"
+        }
+      ],
+      "healthScore": {
+        "score": 15,
+        "status": "High Risk / Predatory",
+        "verdict": "Critical red flags detected! Do NOT sign without negotiating major amendments or seeking professional legal review.",
+        "highCount": 6,
+        "medCount": 2,
+        "safeCount": 0
+      },
+      "questions": [
+        {
+          "id": "q-deposit",
+          "topic": "Deposit Deductions",
+          "question": "Clause specifies a mandatory deduction for painting upon vacating. Can we amend this so deductions apply only to actual physical damages beyond normal wear and tear, supported by itemized repair invoices?",
+          "why": "Prevents paying for normal wall aging or previous tenants' paint decay."
+        },
+        {
+          "id": "q-notice",
+          "topic": "Mutual Notice Period",
+          "question": "The current draft allows the owner 7 days to terminate but requires 60 days from the tenant. Can we make this a mutual 30-day notice period for both parties?",
+          "why": "Ensures you aren't evicted unexpectedly without time to find a new room."
+        },
+        {
+          "id": "q-lockin",
+          "topic": "Early Exit & Lock-in Flexibility",
+          "question": "In the event of an unavoidable college transfer, job relocation, or health emergency, can we include a clause allowing termination during lock-in if I give 30 days notice or help find a replacement?",
+          "why": "Protects you from losing your entire deposit and being held liable for unlived rent."
+        },
+        {
+          "id": "q-privacy",
+          "topic": "Inspection Notice & Privacy",
+          "question": "Regarding owner or warden inspections, can we add a requirement of at least 24 hours advance written or telephone notice before room entry, except in emergencies?",
+          "why": "Protects your fundamental right to privacy and personal dignity."
+        },
+        {
+          "id": "q-repairs",
+          "topic": "Maintenance Split & Major Fixtures",
+          "question": "Can we clarify that major structural issues, pre-existing plumbing/electrical faults, and capital appliance replacements (like geyser motor) remain the landlord's responsibility?",
+          "why": "Guarantees you won't bear the cost of pre-existing building defects."
+        }
+      ],
+      "checklist": [
+        {
+          "id": "chk-photo",
+          "title": "Document Existing Condition with Photos & Video",
+          "description": "Take high-resolution photos and video of all walls, tiles, geyser, taps, and pre-existing furniture marks on move-in day. Email them to the owner to establish timestamped proof.",
+          "category": "Move-In Proof",
+          "isCompleted": false,
+          "priority": "high"
+        },
+        {
+          "id": "chk-meter",
+          "title": "Note Down Electricity & Water Meter Readings",
+          "description": "Photograph the electricity sub-meter and confirm previous tenant's unpaid bills are settled before paying first month's advance.",
+          "category": "Utilities",
+          "isCompleted": false,
+          "priority": "high"
+        },
+        {
+          "id": "chk-receipt",
+          "title": "Get Deposit & Rent Acknowledgment in Writing",
+          "description": "Never pay deposit in unrecorded cash. Use bank transfer (UPI/NEFT) and ensure owner provides a signed receipt.",
+          "category": "Payment",
+          "isCompleted": false,
+          "priority": "high"
+        },
+        {
+          "id": "chk-notice-match",
+          "title": "Check Mutual Notice Period Match",
+          "description": "Confirm both tenant and owner have identical notice requirements (e.g. 30 days each).",
+          "category": "Clauses",
+          "isCompleted": false,
+          "priority": "medium"
+        },
+        {
+          "id": "chk-painting-clause",
+          "title": "Clarify Painting & Normal Wear-and-Tear Policy",
+          "description": "Verify that wall painting is not an automatic deduction, but only charged if actual damage occurs.",
+          "category": "Clauses",
+          "isCompleted": false,
+          "priority": "medium"
+        },
+        {
+          "id": "chk-keys-lock",
+          "title": "Test All Locks & Request Duplicate Key Policy",
+          "description": "Test main door and room locks. Clarify who holds duplicate keys and verify owner entry notice.",
+          "category": "Security",
+          "isCompleted": false,
+          "priority": "high"
+        }
+      ],
+      "analyzedAt": "2026-09-30T07:39:26.022Z",
+      "engine": "Express Neural-Rule Engine v2.0"
+    }
+  }
+]
